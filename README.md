@@ -26,8 +26,6 @@ The Simon Says game is a classic memory and pattern recognition game where playe
 
 # Demo link & Screenshots:
 
-- Link: https://akankshap-simon-says-game.netlify.app
-<br>
-- Screenshot: 
-<br>
+- Link: https://akankshap-simon-says-game.netlify.app<br>
+- Screenshot: <br>
 ![alt text](image.png)
