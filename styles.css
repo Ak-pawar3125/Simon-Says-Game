@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  gap: 2rem;
+}
+
+.box-conatainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sec1,
+.sec2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btns {
+  height: 8rem;
+  width: 8rem;
+  border-radius: 1rem;
+  border: 0.2rem solid #000;
+  cursor: pointer;
+}
+
+.red {
+  background-color: #f55648;
+}
+
+.blue {
+  background-color: #46d1ff;
+}
+
+.yellow {
+  background-color: #ffe136;
+}
+
+.green {
+  background-color: #43fe43;
+}
+
+.flash{
+    background-color: aliceblue;
+}
